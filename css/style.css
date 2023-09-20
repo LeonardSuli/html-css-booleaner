@@ -35,3 +35,7 @@ main header p{
 main header div{
     font-size: 12px;
 }
+
+.colored{
+    background-color: yellow;
+}

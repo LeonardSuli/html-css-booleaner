@@ -43,3 +43,12 @@ main header div{
 section ul{
     padding-inline-start: 16px;
 }
+
+thead tr{
+    background-color: rgb(0, 217, 255);
+    color: white;
+}
+
+.row_colored{
+    background-color:lightskyblue;
+}

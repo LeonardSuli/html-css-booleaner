@@ -39,3 +39,7 @@ main header div{
 .colored{
     background-color: yellow;
 }
+
+section ul{
+    padding-inline-start: 16px;
+}

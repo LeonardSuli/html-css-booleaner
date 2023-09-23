@@ -16,7 +16,8 @@ body{
 }
 
 main, footer{
-    margin: 10px;
+    width: 80%;
+    margin: auto;
 }
 
 main header p, footer p{
